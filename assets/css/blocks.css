@@ -113,7 +113,7 @@ p.has-drop-cap:not(:focus)::first-letter {
 /* File */
 
 .wp-block-file .wp-block-file__button {
-	background-color: #222;
+	background-color: #0b3c5d;
 	-webkit-border-radius: 2px;
 	border-radius: 2px;
 	-webkit-box-shadow: none;
@@ -204,7 +204,7 @@ p.has-drop-cap:not(:focus)::first-letter {
 }
 
 .entry-content .wp-block-button__link {
-	background-color: #222;
+	background-color: #0b3c5d;
 	color: #fff;
 }
 
@@ -213,7 +213,7 @@ p.has-drop-cap:not(:focus)::first-letter {
 }
 
 .entry-content .is-style-outline .wp-block-button__link:not(.has-text-color) {
-	color: #222;
+	color: #0b3c5d;
 }
 
 .colors-dark .wp-block-button__link {
@@ -245,7 +245,7 @@ p.has-drop-cap:not(:focus)::first-letter {
 
 .colors-dark .entry-content .is-style-outline .wp-block-button__link:not(.has-text-color):hover,
 .colors-dark .entry-content .is-style-outline .wp-block-button__link:not(.has-text-color):focus {
-	color: #222;
+	color: #0b3c5d;
 }
 
 .colors-custom .entry-content .wp-block-button__link,

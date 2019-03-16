@@ -5,7 +5,7 @@
  * @link https://developer.wordpress.org/themes/basics/theme-functions/
  *
  * @package WordPress
- * @subpackage Twenty_Seventeen
+ * @subpackage Twenty_Seventeen_Transportadora
  * @since 1.0
  */
 
@@ -455,6 +455,7 @@ function transportadora_scripts() {
 	if ( 'dark' === get_theme_mod( 'colorscheme', 'light' ) || is_customize_preview() ) {
 		wp_enqueue_style( 'transportadora-colors-dark', get_theme_file_uri( '/assets/css/colors-dark.css' ), array( 'transportadora-style' ), '1.0' );
 	}
+
 
 	// Load the Internet Explorer 9 specific stylesheet, to fix display issues in the Customizer.
 	if ( is_customize_preview() ) {

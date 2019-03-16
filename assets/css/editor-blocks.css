@@ -30,11 +30,11 @@ Description: Used to style blocks in the editor.
 }
 
 .edit-post-visual-editor .editor-block-list__block {
-	color: #333;
+	color: #328cc1;
 }
 
 .editor-post-title__block .editor-post-title__input {
-	color: #333;
+	color: #328cc1;
 	font-family: "Libre Franklin", "Helvetica Neue", helvetica, arial, sans-serif;
 	font-size: 20px;
 	font-size: 1.25rem;
@@ -376,7 +376,7 @@ html[lang="th"] .edit-post-visual-editor * {
 .edit-post-visual-editor a,
 .editor-block-list__block a,
 .wp-block-freeform.block-library-rich-text__tinymce a {
-	color: #222;
+	color: #0b3c5d;
 }
 
 /* List styles */
@@ -594,7 +594,7 @@ html[lang="th"] .edit-post-visual-editor * {
 }
 
 .wp-block-file .wp-block-file__button {
-	background-color: #222;
+	background-color: #0b3c5d;
 	-webkit-border-radius: 2px;
 	border-radius: 2px;
 	-webkit-box-shadow: none;
@@ -726,12 +726,12 @@ table.wp-block-table td:last-child {
 }
 
 .wp-block-button__link {
-	background-color: #222;
+	background-color: #0b3c5d;
 	color: #fff;
 }
 
 .is-style-outline .wp-block-button__link {
-	color: #222;
+	color: #0b3c5d;
 }
 
 /* Media & Text */

@@ -3,7 +3,7 @@
  * Transportadora: Customizer
  *
  * @package WordPress
- * @subpackage Twenty_Seventeen
+ * @subpackage Twenty_Seventeen_Transportadora
  * @since 1.0
  */
 

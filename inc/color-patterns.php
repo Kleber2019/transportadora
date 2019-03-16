@@ -3,7 +3,7 @@
  * Transportadora: Color Patterns
  *
  * @package WordPress
- * @subpackage Twenty_Seventeen
+ * @subpackage Twenty_Seventeen_Transportadora
  * @since 1.0
  */
 
@@ -106,7 +106,7 @@ function transportadora_custom_colors_css() {
 .colors-custom input[type="button"],
 .colors-custom input[type="submit"],
 .colors-custom .entry-footer .edit-link a.post-edit-link {
-	background-color: hsl( ' . $hue . ', ' . $saturation . ', 13% ); /* base: #222; */
+	background-color: hsl( ' . $hue . ', ' . $saturation . ', 13% ); /* base: #0b3c5d; */
 }
 
 .colors-custom input[type="text"]:focus,
@@ -148,7 +148,7 @@ function transportadora_custom_colors_css() {
 .colors-custom .post-navigation a:hover .icon,
 .colors-custom .site-content .site-content-light,
 .colors-custom .transportadora-panel .recent-posts .entry-header .edit-link {
-	color: hsl( ' . $hue . ', ' . $saturation . ', 13% ); /* base: #222; */
+	color: hsl( ' . $hue . ', ' . $saturation . ', 13% ); /* base: #0b3c5d; */
 }
 
 .colors-custom .entry-content a:focus,
@@ -226,12 +226,12 @@ body.colors-custom,
 .colors-custom .nav-title,
 .colors-custom .comment-body,
 .colors-custom .site-content .wp-playlist-light .wp-playlist-current-item .wp-playlist-item-album {
-	color: hsl( ' . $hue . ', ' . $reduced_saturation . ', 20% ); /* base: #333; */
+	color: hsl( ' . $hue . ', ' . $reduced_saturation . ', 20% ); /* base: #328cc1; */
 }
 
 .colors-custom .social-navigation a:hover,
 .colors-custom .social-navigation a:focus {
-	background: hsl( ' . $hue . ', ' . $reduced_saturation . ', 20% ); /* base: #333; */
+	background: hsl( ' . $hue . ', ' . $reduced_saturation . ', 20% ); /* base: #328cc1; */
 }
 
 .colors-custom input[type="text"]:focus,
@@ -251,7 +251,7 @@ body.colors-custom,
 .colors-custom input[type="color"]:focus,
 .colors-custom textarea:focus,
 .bypostauthor > .comment-body > .comment-meta > .comment-author .avatar {
-	border-color: hsl( ' . $hue . ', ' . $reduced_saturation . ', 20% ); /* base: #333; */
+	border-color: hsl( ' . $hue . ', ' . $reduced_saturation . ', 20% ); /* base: #328cc1; */
 }
 
 .colors-custom h2,
@@ -523,7 +523,7 @@ body.colors-custom,
 
 	.colors-custom .nav-links .nav-previous .nav-title .icon,
 	.colors-custom .nav-links .nav-next .nav-title .icon {
-		color: hsl( ' . $hue . ', ' . $saturation . ', 20% ); /* base: #222; */
+		color: hsl( ' . $hue . ', ' . $saturation . ', 20% ); /* base: #0b3c5d; */
 	}
 
 	.colors-custom .main-navigation li li:hover,

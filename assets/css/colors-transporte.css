@@ -274,7 +274,6 @@ body.colors-dark,
 	border-bottom-color: #ccc;
 }
 
-/* ao passar o mouse por sima do menu */
 .colors-dark h5,
 .main-navigation a:hover,
 .colors-dark .entry-meta,
@@ -287,8 +286,7 @@ body.colors-dark,
 .colors-dark .page-numbers.current,
 .colors-dark .page-links .page-number,
 .colors-dark .site-description {
-	color: #d9b310;;
-	background-color:#328cc1;
+	color: #bbb;
 }
 
 .colors-dark button:hover,

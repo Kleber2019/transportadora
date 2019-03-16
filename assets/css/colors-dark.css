@@ -13,6 +13,10 @@
 	background-color: #fff;
 }
 
+.post-91 {
+	background-color: #000;
+}
+
 .colors-dark a:hover,
 .colors-dark a:active,
 .colors-dark .entry-content a:focus,
@@ -158,6 +162,10 @@ body.colors-dark,
 .colors-dark .nav-title,
 .colors-dark .comment-body {
 	color: #eee;
+}
+
+.panel-content{
+	background-color: #0b3c5d;
 }
 
 /* Placeholder text color -- selectors need to be separate to work. */
@@ -356,7 +364,7 @@ body.colors-dark,
 .colors-dark .widget.widget_tag_cloud a:focus,
 .colors-dark .wp_widget_tag_cloud a:hover,
 .colors-dark .wp_widget_tag_cloud a:focus {
-	border-color: #555;
+	border-color: #d9b310;
 }
 
 .colors-dark button.secondary,
@@ -366,22 +374,22 @@ body.colors-dark,
 .colors-dark input[type="submit"].secondary,
 .colors-dark .prev.page-numbers,
 .colors-dark .next.page-numbers {
-	background-color: #444;
+	background-color: #d9b310;
 }
 
 .colors-dark .widget .tagcloud a,
 .colors-dark .widget.widget_tag_cloud a,
 .colors-dark .wp_widget_tag_cloud a {
-	border-color: #444;
+	border-color: #d9b310;
 }
 
 .colors-dark.transportadora-front-page article:not(.has-post-thumbnail):not(:first-child),
 .colors-dark .widget ul li {
-	border-top-color: #444;
+	/*border-top-color: #d9b310;*/
 }
 
 .colors-dark .widget ul li {
-	border-bottom-color: #444;
+	border-bottom-color: #d9b310;
 }
 
 .colors-dark pre,
@@ -427,12 +435,12 @@ body.colors-dark,
 .colors-dark .main-navigation li,
 .colors-dark .entry-footer,
 .colors-dark #comments {
-	border-bottom-color: #328cc1;
+	border-bottom-color: #d9b310;
 }
 
 .colors-dark .site-header,
 .colors-dark .single-featured-image-header {
-	background-color: #262626;
+	background-color: #0b3c5d;
 }
 
 .colors-dark button,
@@ -449,7 +457,7 @@ body.colors-dark,
 .colors-dark .site-content-contain,
 .colors-dark .navigation-top,
 .colors-dark .main-navigation ul {
-	background: #0b3c5d;
+	background: #1d2731;
 }
 
 .colors-dark .entry-title a,

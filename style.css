@@ -1316,11 +1316,11 @@ a:hover .nav-title,
 /*--------------------------------------------------------------
 12.0 Navigation
 --------------------------------------------------------------*/
-
+/*menu bordas*/
 .navigation-top {
 	background: #fff;
-	border-bottom: 1px solid #eee;
-	border-top: 1px solid #eee;
+	border-bottom: 0 solid #d9b310;/*borda de baixo do menu*/
+	border-top: 0;
 	font-size: 16px;
 	font-size: 1rem;
 	position: relative;
@@ -1547,6 +1547,7 @@ body {
 	content: "";
 	display: block;
 }
+
 
 /*--------------------------------------------------------------
 13.1 Header
@@ -1813,8 +1814,9 @@ body:not(.has-header-image):not(.has-header-video) .custom-header-media {
 	top: 100px;
 }
 
+/*borada entre solicite um orçamento e quem somos*/
 .transportadora-front-page article:not(.has-post-thumbnail):not(:first-child) {
-	border-top: 1px solid #ddd;
+	border-top: 0;
 }
 
 .panel-content {
@@ -2556,11 +2558,11 @@ h2.widget-title {
 	list-style: none;
 	margin: 0;
 }
-
+/*footer lista*/
 .widget ul li,
 .widget ol li {
 	border-bottom: 1px solid #ddd;
-	border-top: 1px solid #ddd;
+	border-top: 1px solid #d9b310;
 	padding: 0.5em 0;
 }
 
@@ -2762,7 +2764,7 @@ h2.widget-title {
 	border-top: 0;
 	border-bottom: 0;
 	padding: 0;
-	margin: 4px 4px 0 0;
+	margin: 8px 8px 0 0;
 }
 
 .tagcloud,
@@ -2774,7 +2776,7 @@ h2.widget-title {
 .widget .tagcloud a,
 .widget.widget_tag_cloud a,
 .wp_widget_tag_cloud a {
-	border: 1px solid #ddd;
+	border: 1px solid #d9b310;
 	-webkit-box-shadow: none;
 	box-shadow: none;
 	display: block;
@@ -3699,8 +3701,9 @@ p > object:only-child {
 		top: 2em;
 	}
 
+	/*flexa do desktop*/
 	.site-header .navigation-top .menu-scroll-down {
-		color: #767676;
+		color: #fff;
 		top: 0.7em;
 	}
 

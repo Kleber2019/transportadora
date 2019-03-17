@@ -415,7 +415,7 @@ button,
 input,
 select,
 textarea {
-	color: #328cc1;
+	color: #0b3c5d;
 	font-family: "Libre Franklin", "Helvetica Neue", helvetica, arial, sans-serif;
 	font-size: 15px;
 	font-size: 0.9375rem;
@@ -1547,6 +1547,7 @@ body {
 	content: "";
 	display: block;
 }
+
 
 /*--------------------------------------------------------------
 13.1 Header
